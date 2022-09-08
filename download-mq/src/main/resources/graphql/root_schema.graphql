@@ -1,0 +1,15 @@
+schema {
+	query: UserQuery
+}
+
+type UserQuery {
+    findUser(id:String): [TbUser]
+}
+
+type TbUser {
+    id: Int
+    userName: String
+    password: String
+    cityName: String
+}
+

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="getdocid" />
+        <module name="graphql3" />
+        <module name="graphql3 (1)" />
+        <module name="count-application" />
+        <module name="count-from-match" />
+        <module name="readpages" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="count-application" target="1.8" />
+      <module name="count-from-match" target="1.8" />
+      <module name="getdocid" target="1.8" />
+      <module name="graphql3" target="1.8" />
+      <module name="graphql3 (1)" target="1.8" />
+      <module name="readpages" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="count-application" options="-parameters" />
+      <module name="count-from-match" options="-parameters" />
+      <module name="getdocid" options="-parameters" />
+      <module name="graphql3" options="-parameters" />
+      <module name="graphql3 (1)" options="-parameters" />
+      <module name="readpages" options="-parameters" />
+    </option>
+  </component>
+</project>

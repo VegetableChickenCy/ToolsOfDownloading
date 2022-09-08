@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/download-mq/pom.xml" />
+        <option value="$PROJECT_DIR$/download-aks/pom.xml" />
+        <option value="$PROJECT_DIR$/countfrommarch/pom.xml" />
+        <option value="$PROJECT_DIR$/caculcate-doc-id/pom.xml" />
+        <option value="$PROJECT_DIR$/read-page-number/pom.xml" />
+        <option value="$PROJECT_DIR$/count-application/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="azul-11" project-jdk-type="JavaSDK" />
+</project>
